@@ -1,14 +1,3 @@
-"""
-
-@Author: Pranta Sarker
-Institute: North East University Bangladesh
-Language: Python
-Version: 3.x
-Platfrom: Pycharm Community Version
-
-"""
-
-
 from tkinter import *;
 from tkinter import messagebox;
 
